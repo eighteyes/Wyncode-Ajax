@@ -14,3 +14,12 @@
     2. Create form on index page using view helpers
     3. Use jQuery to append information from the form
     4. Make post requests to index.json to create items without leaving the page
+ (optional)
+    Restyle forms
+    - Custom Drop Downs
+    - Custom Radio Buttons / Checkboxes
+    - Custom Inputs 
+    Custom Behavior
+    - Autocomplete
+    - Tag Pillboxes
+    - Shift-select lists of checkboxes
